@@ -25,3 +25,9 @@ proguard/
 
 # Log Files
 *.log
+
+# Photos saved to the app
+photos/
+
+# Not sure about this one
+.DS_Store
